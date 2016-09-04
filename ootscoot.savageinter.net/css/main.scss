@@ -12,9 +12,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+// colors from http://colorpalettes.net/color-palette-2978/
+
+$text-color:       #415326;
+$background-color: lighten(#d3bb9c,10%);
+$brand-color:      #244e81;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
