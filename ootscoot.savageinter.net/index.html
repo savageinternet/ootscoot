@@ -1,6 +1,24 @@
 ---
 layout: default
 ---
+<style>
+.fauxthumbnail {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  border-radius:30px;
+}
+.fauxthumbnail img {
+  position:absolute;
+  left:50%;
+  top:50%;
+  height:auto;
+  width:100%;
+  transform:translate(-50%,-50%);
+  border-radius:30px;
+}
+</style>
 
 <div class="home">
 
@@ -17,7 +35,9 @@ layout: default
 
                     {% if foundImage == 0 %}
                         {% assign html = image | split:"/>" | first %}
-                        <img width=300px {{ html }} />
+                        <div class="fauxthumbnail">
+                          <img {{ html }} />
+                        </div>
                         {% assign foundImage = 1 %}
                     {% endif %}
                 {% endif %}
