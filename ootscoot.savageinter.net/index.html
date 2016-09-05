@@ -36,7 +36,7 @@ layout: default
                     {% if foundImage == 0 %}
                         {% assign html = image | split:"/>" | first %}
                         <div class="fauxthumbnail">
-                          <img {{ html }} />
+                          <a href="{{ post.url | prepend: site.baseurl }}"><img {{ html }} /></a>
                         </div>
                         {% assign foundImage = 1 %}
                     {% endif %}
