@@ -4,12 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Herein is written the blog of Evan and Valkyrie Savage, adventurers, as they journey across the continent on their Vespa, fondly nicknamed "The Emperor." They will do their utmost to keep this as up-to-date as possible, but who knows what may happen on the road.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Their rough plan:
+* leave Oakland, CA
+* drive north on the 1 to Eureka
+* turn slightly inland towards Crater Lake National Park
+* north to Bend, OR
+* right turn
+* Boise, ID and Craters of the Moon
+* Grand Teton and Yellowstone National Parks
+* northeast to Billings, MT
+* cut through the corner of WY to see Devil's Tower
+* Mount Rushmore and Crazy Horse
+* the Corn Palace
+* Minnesota and Minneapolis, St. Paul
+* Wisconsin, and cheese!
+* the UP of Michigan
+* cross to Canada at Sault St. Marie
+* take a ferry to Bruce National Park
+* TORONTO
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+It will take roughly 6 weeks from the day they left (August 26th), and the intrepid journeyers plan to cover 80-150 miles per day, depending on weather, sightseeing, and their states of mind.
+
+We'd love to hear about fun stuff you recommend. :) You can email us both at fearlesstost at gmail dot com.
