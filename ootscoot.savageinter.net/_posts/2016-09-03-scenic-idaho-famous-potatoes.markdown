@@ -54,7 +54,9 @@ In case we need one last reminder that, yes, we're still in Oregon, here it is:
 
 (Tongue-in-cheek tone aside, we also spot corn, sugar beets, berries, and a host of other agricultural delights.)
 
-Upon entering Boise, we immediately note that they have a bikeshare program:
+Upon entering Boise, the first thing of note is a church sign that reads "You can find Pokemon AND Jesus here."  We're no longer in the Pacific Northwest.
+
+Entering the downtown core, we immediately note that they have a bikeshare program:
 
 ![](https://lh3.googleusercontent.com/Stfq7tkTglMzvhSFzoyQ2IuzClRA7kuFzQ1QG-vdtyRo8eW9Y4u-aF_Y0YyaIg8PXqJLpFeQAqgwnuSq_Uk1Nn-LwQpb5rYSnbYNs3OW5GtuxMg-2J_abclBAcmsFOq-HjZFFmeQuJdf8kqd06Sng6vn0ihBsYtM1dSYQ8Kw9Xr5WnscghBX-4Ac0k-PcNV9eaomf3JA17LKdlcAGUTu3Ef-rhub3g9vTEZyKpjQag-NlvnKeqfpi3kU8xShWYaYJ0TslAHGsuulDmnmDXrLVRiy5RViElqaaeIAMMtMpEM39g38xlBe7TNtgFiVF1p2ZYf2cGA6_moisUHAmTOJWjL8cWui_ZzK-LNgfrmLLmA9HiHEOIvNqEzIgy2XaG4Oa6zFkWB6FKCoTdCFHCWdecXSYX682yQvRNiTstNJIQSnfMR9biLNHeUZdYzI0LUD9mTZr-Quyzi9jAMl_xE0TIzMVOmOppmqSqn_yJcDYv4jK6GfW_jdF6abei0lMRcjiOttldZ76y-Ev9WifSjilNLrvcuBzyBD_6WN7IUk_T_LYyHDNnQyY23uWYNsG9eiaDU1Xrj-PH7FnQwPtRdnvE7jDzSbLmez6qTrLWZoIGyC=w427-h755-no)
 
