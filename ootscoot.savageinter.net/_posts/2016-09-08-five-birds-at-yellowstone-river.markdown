@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Five Birds at the Yellowstone River"
+title: "Five Birds at Yellowstone"
 date: 2016-09-08T10:31:11-06:00
 ---
 <i>Dry grasses rustle,<br/>
