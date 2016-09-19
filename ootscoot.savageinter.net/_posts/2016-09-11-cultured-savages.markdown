@@ -4,6 +4,8 @@ title: "Cultured Savages"
 date: 2016-09-11T22:00:00-06:00
 ---
 
+## Day 19: Billings, MT
+
 (Yeah, I know, the Savage jokes get old.  Plus they're politically incorrect, or something like that.  Too bad; you opened this post, so you're stuck reading it now.)  Another day around Billings while we wait for our Tuesday maintenance slot.  We spend it visiting an unexpectedly awesome and unique art museum - oh, and eating.  There's a lot of eating involved.
 
 ![](https://lh3.googleusercontent.com/90VrBjlHrPF9_fVd9WtS3DQ6-TLMs1HILPk_tIRSBd0qUOx_ddZ70BFMTPa0aMtxYhNwb19DOeRYyY0WBlUiS6Jy1mbwsDQbS-aZwJzdaAcwxWSav5R1zEIlqBaGZU4WkG5p8BDY2HGkhsEBlaAbuDFQ8FB_fq2ph_Z6zV_YWnegRS7z2PdFGEGO32ZjOx6fWGFIbloG32My2Q9o3eFXu0IinHsGHcyHKMfuQM0GHTLWCLhMO46HPUmnCwFKKMDHEsJhTtnTAE67N30QloRKBKO-CoIyrSxDT29B-cjtzPcdeZ4A9zl4CEnQnCDgH9l-nKtWiCTTXrLe08lNCWlcxE3xg1EgVNNWFJoc_JINN0rTu_kM-Vs51yxZAqfzoqOIfKYBaHjduLoxYYRTraJ21n0SjRsFSzG1DZeo8mlclWdBr1Q08Fxw8cjEddqNKLCta49vb5wwN86o41QimuRKFNiUIDXl2woXI6ylcGmtQH7W_9HsdPI8_3XlXGDQE05CwHxa5uHf-RkFVhy4CmOwzyUie4M_rCzqvoYqNeRcC5O_tx_vj9_Wwam6rQwTgbHMvIor0dayJRClJlnYejFnQ8S5bCihQIA43FraViLELRN0=w1413-h799-no)

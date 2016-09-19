@@ -4,6 +4,8 @@ title: "Cool Bearings"
 date: 2016-09-09T22:00:00-06:00
 ---
 
+## Day 17: Silver Gate, MT to Billings, MT
+
 Today we cross the Beartooth Pass at nearly 11 000 feet above sea level - and just about freeze our hands off in the process - before descending down to Big Sky Country to arrive in Billings for the first successful CouchSurfing stay of our trip!
 
 ![](https://lh3.googleusercontent.com/Gb5qlSivtfT9MnGy8GoanCp-htKfn4KQdhdyaM4krA-3WjIQ07aJ5DDPsKVSBqQd6xuLYLaUC--yjhEnksgOGfbNBVFNhlbmzbxUYmLIfzqRr-VgujEtLM7yzdrNhsMY-BdT8zPmvi_8bXYvdQF1CvjJ6fNX-2feXUbGFN5WK0WZkHgZNj_b72HgA7RawcVm2uEFt8WW9vysPYmgJsG74RKhy1m4ZQSbexq-Rke4apI4DGXJ2hzQveGJ7BhooQUFNL_7WeyI4D1hOCazR5f3KXKKKhesc6-0-pnQHb6mvb3i7xrb8-764REbGDI03JakXjcu7zOJyRO6MEWcAJwIt5nq8T9eLTDxz8kG7uxW4MId6Bek5aqN5ReicjIpTqVkBA9AHV1JRA5sxazcSKGKld8rQV9rUlXV-FhFo0st7puuv6oTbe-OKZbGCsvu9Zd93VqF8-KxBjdhA3vO1bO68_9n0dVO8WR3fgZQa2bS4OAB_zCyV1HCWhmta2tQpG1oRArY3d0vAz90NZCBK2yazxUbxrpOAbIYhSr90ea_IojT7tmllo2zO21rwNAxJ4YIZYDYuz4oiiJes-GYAuvmyRMu6vvd4In2JmKv8sC0hYo=w1413-h799-no)
