@@ -25,6 +25,6 @@ Their rough plan:
 * take a ferry to Bruce National Park
 * TORONTO
 
-It will take roughly 6 weeks from the day they left (August 26th), and the intrepid journeyers plan to cover 80-150 miles per day, depending on weather, sightseeing, and their states of mind.
+It will take roughly 6 weeks from the day they left (August 24th), and the intrepid journeyers plan to cover 80-150 miles per day, depending on weather, sightseeing, and their states of mind.
 
 We'd love to hear about fun stuff you recommend. :) You can email us both at fearlesstost at gmail dot com.
