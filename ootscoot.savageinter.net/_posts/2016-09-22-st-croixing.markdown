@@ -32,37 +32,37 @@ We passed into Wisconsin. At roughly this time, fall officially started. Fall al
 
 Your mileage may vary. We started out this trip with a pair of Chatterbox Bluetooth helmet radios that my sister had gotten for us as a gift a few years ago, but for some reason they refused to pair. We gave up trying to get them to work and eventually packed them up and shipped them to my parents' house. This means that our conversations with each other are pretty limited; we've developed some sign language about weather and scenery (mainly to signal rain, nice sunshine, especially nice vistas, etc.), but other communication on the bike is limited to pretty simple ideas that can be communicated in a few shouted words. We also don't have much exposure to music on the road, mostly just what we hear in cafés or restaurants. That means there's a lot of time to play songs in our head that we already know (at which point we sometimes realize that we don't really know them that well), or to get lost in the meditative sights of nature speeding by. Out here in Wisconsin, the trees are really beginning to blaze with fall colors. I also spend some of my riding time making up songs, which will probably never become famous. One of the ones I remember is from back in Eastern Oregon:
 
-_We're stacking up the haybales four bales high,
-Don't stack 'em five or else you might die,
-We're stacking up the haybales four bales high,
-Out here on the range.
+_We're stacking up the haybales four bales high,<br/>_
+_Don't stack 'em five or else you might die,<br/>_
+_We're stacking up the haybales four bales high,<br/>_
+_Out here on the range.<br/>_
 
-We're bringin' all the cattle in, seven at night,
-Can't wait 'til eight or coyotes start to bite,
-We're bringin' all the cattle in, seven at night,
-Out here on the range.
+_We're bringin' all the cattle in, seven at night,<br/>_
+_Can't wait 'til eight or coyotes start to bite,<br/>_
+_We're bringin' all the cattle in, seven at night,<br/>_
+_Out here on the range.<br/>_
 
-We're chasin' all the tumbleweeds out of the road,
-Try to get 'em all before you get your field sowed,
-We're chasin' all the tumbleweeds out of the road,
-Out here on the range.
+_We're chasin' all the tumbleweeds out of the road,<br/>_
+_Try to get 'em all before you get your field sowed,<br/>_
+_We're chasin' all the tumbleweeds out of the road,<br/>_
+_Out here on the range.<br/>_
 
-We're stacking up the haybales four bales high,
-Bringin' all the cattle in, seven at night,
-We're chasin' all the tumbleweeds out of the road,
-Out here on the range._
+_We're stacking up the haybales four bales high,<br/>_
+_Bringin' all the cattle in, seven at night,<br/>_
+_We're chasin' all the tumbleweeds out of the road,<br/>_
+_Out here on the range.<br/>_
 
 And one from more recently:
 
-_We're riding along through the fields, and the fields
-That we pass, some are gold, some are green.
-We hear the small stories from the flowers, and the flowers
-They move us through some forces unseen.
+_We're riding along through the fields, and the fields<br/>_
+_That we pass, some are gold, some are green.<br/>_
+_We hear the small stories from the flowers, and the flowers<br/>_
+_They move us through some forces unseen.<br/>_
 
-The wind whistles harsh as it passes the cornfields,
-And it moans while caressing the trees.
-While up in the sky is the home of the sunshine,
-As the clouds, they whisper our dreams._
+_The wind whistles harsh as it passes the cornfields,<br/>_
+_And it moans while caressing the trees.<br/>_
+_While up in the sky is the home of the sunshine,<br/>_
+_As the clouds, they whisper our dreams.<br/>_
 
 Like I said, unlikely to become famous. But this is what we do out on the road.
 
@@ -76,7 +76,7 @@ We followed his directions and eventually bumped over a washed-out gravel road i
 
 We actually have a dock that goes right off the site to the lake. We took a turn around the whole campground (on foot, since the road is treacherous enough that we would prefer to just drive it twice with The Emperor), and this is clearly a happening place in summertime. They have a tiki bar on the beach, canoes for rent, a water trampoline, a submerged basketball court, and more! One of the fellows staying in a cabin there told us that there'd been a flood event yesterday, so we're lucky to be here today, instead.
 
-(TODO: tiki bar image)
+![Tiki bar!](https://lh3.googleusercontent.com/6ct6TVH4jVTCrPiMRNa0oyfOIGJ13DBLn0ehqIAgX5VNyWZjzzcjg3TfnS7gMqi-K242FFYzTggzvteF-UgYzFTuMM4QBITXF-kxTofUOl8BeAPe6U83AJTjjGSljG9k4Jg2K0MEvuo52CpcLUYn_6T5JY0rZqpWFTlf-9aL0Qh8rUxcbRxlWyfBAC4j9lSk9TJWygkmZTED_bpCfvyNi2NNcX052rziTKP9VvPD0qVi7CdAxJSLZgybmpq68xMbNgCDJH2AdNugHBWoULnm2xMgHtLQGHupSKnlzw0KFvT7QqAzbYi-Kckz_COzb8_8lCtFqxYu-pHAnpEmYBDJWOLS-beaQ59eO1rzFXGLJbx902NGwvGKTn6TZKoTPyAckgEtJp3TX-3xNxcUNXZoj2V2waCSeVOtWvPC_izc20-64IM3ICvmHKRdemkGc8T4ooFyWI6HYA5_pbKt_Opllbiv_8wLUbXAH2UxNXzszh2DXylCstJeXvtBW7eXZaAkzaogGXjM1M80iPPXgqh4ANuujWPCDYH6a6X01tp0qbXfTDiGgN0Hf3N9xEtOV6om0R6SSI5Op8Kd-ZQvc3dACk7HQUNGxFL1pzJtQZ772JYkA3za=w2390-h1352-no "Tiki bar!")
 
 Back at the site, Evan fixed dinner while I set to work making a campfire. Due to the rainfall yesterday, all the wood we got was damp, all the kindling around the site was damp, and the fire pit itself was damp. I shredded all the paper and cardboard available and broke up little bits of twigs besides, but only succeeded in creating the Worst Campfire Ever. At one point, one of the larger logs caught, but only for a moment. The thing kept smoldering, and since everything is so wet we didn't bother putting it out. We went and sat on the dock for a bit, drinking beer and planning tomorrow's travel.
 
