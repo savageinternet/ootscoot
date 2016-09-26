@@ -32,37 +32,37 @@ We passed into Wisconsin. At roughly this time, fall officially started. Fall al
 
 Your mileage may vary. We started out this trip with a pair of Chatterbox Bluetooth helmet radios that my sister had gotten for us as a gift a few years ago, but for some reason they refused to pair. We gave up trying to get them to work and eventually packed them up and shipped them to my parents' house. This means that our conversations with each other are pretty limited; we've developed some sign language about weather and scenery (mainly to signal rain, nice sunshine, especially nice vistas, etc.), but other communication on the bike is limited to pretty simple ideas that can be communicated in a few shouted words. We also don't have much exposure to music on the road, mostly just what we hear in cafés or restaurants. That means there's a lot of time to play songs in our head that we already know (at which point we sometimes realize that we don't really know them that well), or to get lost in the meditative sights of nature speeding by. Out here in Wisconsin, the trees are really beginning to blaze with fall colors. I also spend some of my riding time making up songs, which will probably never become famous. One of the ones I remember is from back in Eastern Oregon:
 
-_We're stacking up the haybales four bales high,
-Don't stack 'em five or else you might die,
-We're stacking up the haybales four bales high,
-Out here on the range.
+_We're stacking up the haybales four bales high,<br/>_
+_Don't stack 'em five or else you might die,<br/>_
+_We're stacking up the haybales four bales high,<br/>_
+_Out here on the range.<br/>_
 
-We're bringin' all the cattle in, seven at night,
-Can't wait 'til eight or coyotes start to bite,
-We're bringin' all the cattle in, seven at night,
-Out here on the range.
+_We're bringin' all the cattle in, seven at night,<br/>_
+_Can't wait 'til eight or coyotes start to bite,<br/>_
+_We're bringin' all the cattle in, seven at night,<br/>_
+_Out here on the range.<br/>_
 
-We're chasin' all the tumbleweeds out of the road,
-Try to get 'em all before you get your field sowed,
-We're chasin' all the tumbleweeds out of the road,
-Out here on the range.
+_We're chasin' all the tumbleweeds out of the road,<br/>_
+_Try to get 'em all before you get your field sowed,<br/>_
+_We're chasin' all the tumbleweeds out of the road,<br/>_
+_Out here on the range.<br/>_
 
-We're stacking up the haybales four bales high,
-Bringin' all the cattle in, seven at night,
-We're chasin' all the tumbleweeds out of the road,
-Out here on the range._
+_We're stacking up the haybales four bales high,<br/>_
+_Bringin' all the cattle in, seven at night,<br/>_
+_We're chasin' all the tumbleweeds out of the road,<br/>_
+_Out here on the range.<br/>_
 
 And one from more recently:
 
-_We're riding along through the fields, and the fields
-That we pass, some are gold, some are green.
-We hear the small stories from the flowers, and the flowers
-They move us through some forces unseen.
+_We're riding along through the fields, and the fields<br/>_
+_That we pass, some are gold, some are green.<br/>_
+_We hear the small stories from the flowers, and the flowers<br/>_
+_They move us through some forces unseen.<br/>_
 
-The wind whistles harsh as it passes the cornfields,
-And it moans while caressing the trees.
-While up in the sky is the home of the sunshine,
-As the clouds, they whisper our dreams._
+_The wind whistles harsh as it passes the cornfields,<br/>_
+_And it moans while caressing the trees.<br/>_
+_While up in the sky is the home of the sunshine,<br/>_
+_As the clouds, they whisper our dreams.<br/>_
 
 Like I said, unlikely to become famous. But this is what we do out on the road.
 
