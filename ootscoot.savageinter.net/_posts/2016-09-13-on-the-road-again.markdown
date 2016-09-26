@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zen and the Art of Waiting for Motorcycle Maintenance"
+title: "On the Road Again"
 date: 2016-09-13T22:00:00-06:00
 ---
 
