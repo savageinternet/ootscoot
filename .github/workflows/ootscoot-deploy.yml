@@ -1,0 +1,25 @@
+name: ootscoot-deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Use Ruby
+        uses: ruby/setup-ruby@v1
+      - name: Build
+        run: |
+          gem install octopress
+          gem install bundler
+          cd ootscoot.savageinter.net
+          bundle
+          jekyll build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./ootscoot.savageinter.net/_site

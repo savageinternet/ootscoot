@@ -13,8 +13,8 @@ which chronicles our trip across America on our 300cc Vespa.
     brew update
     brew install rbenv
     brew upgrade ruby-build
-    rbenv install 2.2.2
-    rbenv local 2.2.2
+    rbenv install 2.5.0
+    rbenv local 2.5.0
     gem install octopress
     gem install bundler
     rbenv rehash
